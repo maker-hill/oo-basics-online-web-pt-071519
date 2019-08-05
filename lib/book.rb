@@ -31,6 +31,8 @@ def author=(author)
     @genre
   end  
   
+  def turn_page
+  end
   
   end
 
