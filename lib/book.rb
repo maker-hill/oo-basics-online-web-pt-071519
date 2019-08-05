@@ -30,6 +30,8 @@ def author=(author)
   def genre
     @genre
   end  
+  
+  
   end
 
 end
